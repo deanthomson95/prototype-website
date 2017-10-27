@@ -1,4 +1,4 @@
-Prototype Website
+PROTOTYPE WEBSITE
 =================
 
-Built by Ghausia Hussain and Dean Thomson
+The Best Prototype Website Ever
